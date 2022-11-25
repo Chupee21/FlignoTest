@@ -21,7 +21,7 @@
     <table class="table">
         <thead>
             <tr>
-                <th scope="col">ID</th>
+                <th scope="col">Product ID</th>
                 <th scope="col">Product Name</th>
                 <th scope="col">Brand Name</th>
                 <th scope="col">Price</th>
